@@ -1,0 +1,51 @@
+_repo: Psycho-Analysis-and-the-War-Neuroses_55443
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jones, Ernest
+    alias: Jones, Alfred Ernest
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '45954'
+    url: http://www.gutenberg.org/2009/agents/45954
+  - agent_name: Ferenczi, Sándor
+    aliases:
+    - Ferenczi, S. (Sándor)
+    - Ferenczi, Sandor
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '48339'
+    url: http://www.gutenberg.org/2009/agents/48339
+  - agent_name: Abraham, Karl
+    birthdate: 1877
+    deathdate: 1925
+    gutenberg_agent_id: '48340'
+    url: http://www.gutenberg.org/2009/agents/48340
+  - agent_name: Simmel, Ernst
+    birthdate: 1882
+    deathdate: 1947
+    gutenberg_agent_id: '48341'
+    url: http://www.gutenberg.org/2009/agents/48341
+  - agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_issued: '2017-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55443'
+  lccn: sg23000026
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Psychoanalysis'
+- !lcsh 'War neuroses'
+- GITenberg
+title: Psycho-Analysis and the War Neuroses
+url: http://www.gutenberg.org/ebooks/55443
